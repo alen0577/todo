@@ -1,0 +1,15 @@
+.banner{
+  background-color:black;
+  height:150px;
+  width:100%;
+  margin-bottom:50px
+}
+.banner-text{
+    color:white;
+    text-align:center;
+    padding:50px
+
+}
+.row{
+    margin-left: 10px;
+}
